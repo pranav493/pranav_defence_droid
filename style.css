@@ -1,0 +1,46 @@
+body {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000;
+    border: rgb(68, 255, 0);
+  }
+  
+  canvas {
+    border: 1px solid #ffffff;
+    background-color: #ff0404;
+    
+  }
+  
+  #score {
+    margin-top: 300px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: top;
+    align-content: top;
+    color: rgb(180, 4, 255);
+  }
+ /*s#note{
+  border-top: #000;
+  border-bottom: #000;
+  border-left: #000;
+  border-right: #000 ;
+  margin-top: 200px;
+  font-size: 30px;
+  font-weight:bold;
+  text-align: top;
+  align-content: center;
+  color: #ff0000;
+  margin: 10px;
+  }
+  #health{
+    object-position: 120px;
+    margin-top: 600px, 900px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: top;
+    align-content: top;
+    color: rgb(180, 4, 255);
+  }
